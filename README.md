@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, mundo! Eu sou o Pedro Gallo. :D
 
-<!--
-**PHGallo/PHGallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/PHGallo)](https://github.com/PHGallo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gallo-10368b191/)](https://www.linkedin.com/in/pedro-gallo-10368b191/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/431933096649293824/)](https://discordapp.com/users/431933096649293824/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrogallo9@usp.br)](mailto:pedrogallo9@usp.br)
 
-Here are some ideas to get you started:
+### Sobre mim
+- 🏡 São Paulo - SP
+- 🎂 20.11.2000
+- 🇧🇷 brasileiro
+- 🔭 estatística - IME-USP
+- 📫 contate-me no e-mail: pedrogallo9@usp.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+- 🐍 Python
+- 🇷 R
+- 🐘 SQL
+
+ 
