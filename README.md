@@ -8,13 +8,14 @@
 ### Sobre mim
 - 🏡 São Paulo - SP
 - 🎂 20.11.2000
-- 🇧🇷 brasileiro
+- 🟨🟩🟦 brasileiro
 - 🔭 estatística - IME-USP
 - 📫 contate-me no e-mail: pedrogallo9@usp.br
 
 ### Linguagens
 - 🐍 Python
-- 🇷 R
+- 🍩 R
 - 🐘 SQL
+- 🎲 ECL
 
  
